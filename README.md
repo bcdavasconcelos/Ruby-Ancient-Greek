@@ -1,3 +1,8 @@
+# DEPRECATED
+
+Use the [grc gem](https://github.com/bcdavasconcelos/grc) instead.
+
+
 # Ruby Ancient Greek
 
 
